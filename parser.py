@@ -113,8 +113,7 @@ def exeParser(fullAddress,whatToParse,htmlTag=0,text=False):
 
     print('\n')
     return (someparsing)
-    #except:
-     #   print("Couldn't parse... Please try again")
+
 
 def writeConfig():
     '''saves the INI config file'''
